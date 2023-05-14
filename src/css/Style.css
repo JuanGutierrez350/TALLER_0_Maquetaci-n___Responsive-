@@ -34,7 +34,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: var(--Black);
+    background-color: var(--white);
     font-family: 'Marcellus', serif;
     font-size: 1.3em;
     padding: 1rem;
@@ -66,7 +66,7 @@ nav{
 
 #features{
     background: url();
-    color: black;
+    color: rgb(255, 255, 255);
     padding-top: 1rem;
     background-repeat: no-repeat;
     
@@ -111,7 +111,7 @@ nav{
 }
 
 .logo{
-    background-color: var(--Black2);
+    background-color: var(--white);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -179,7 +179,7 @@ nav a:hover{
         flex-direction: row; 
         width: 100%;
         justify-content: space-between;
-        background-color: var(--Black2);
+        background-color: var(--white);
     }
 
     .logo{
@@ -194,7 +194,7 @@ nav a:hover{
     }
 
      .menu{
-        background-color: var(--Black2);
+        background-color: var(--white);
         display: flex;
         flex-direction: row;
         align-items: center;
